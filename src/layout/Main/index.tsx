@@ -10,8 +10,8 @@ const navItems = [
     label: "Axios",
   },
   {
-    to: "/formik",
-    label: "Formik ",
+    to: "/form",
+    label: "Form ",
   },
 ];
 
